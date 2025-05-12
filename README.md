@@ -2,7 +2,7 @@
 
 This project explores public sentiment toward Aflac across Reddit, Twitter, and Trustpilot. Using natural language processing (NLP) techniques, I analyzed text data to uncover how people feel about the Aflac brand, and translated those findings into actionable insights.
 
-> 🔒 **Note:** Raw `.ipynb` files and some data are not included publicly due to academic and project confidentiality policies.
+> 🔒 **Note:** Raw `.ipynb` files and some data are not included publicly due to project confidentiality policies.
 
 ---
 
